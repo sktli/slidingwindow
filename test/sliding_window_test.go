@@ -2,8 +2,8 @@ package test
 
 import (
 	"context"
+	"github.com/sktli/slidingwindow"
 	"github.com/stretchr/testify/assert"
-	"slidingwindow"
 	"testing"
 	"time"
 )
