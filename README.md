@@ -1,5 +1,7 @@
 # Sliding Window Limiter
 
+[中文版本 (Chinese)](README_zh.md)
+
 ## Overview
 
 `Sliding Window Limiter` is a lightweight, easy-to-use Go library for implementing rate limiting using the sliding window algorithm. It leverages Redis to provide distributed rate limiting functionality.
@@ -14,7 +16,7 @@
 ## Installation
 
 ```bash
-go get github.com/yourusername/slidingwindow
+go get github.com/sktli/slidingwindow
 ```
 
 ## Usage

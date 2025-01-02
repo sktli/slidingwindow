@@ -1,5 +1,7 @@
 # 滑动窗口限流器
 
+[English](README.md)
+
 ## 概览
 
 `Sliding Window Limiter` 是一个轻量、易用的 Go 库，用于通过滑动窗口算法实现限流。它使用 Redis 提供分布式限流功能。
@@ -14,7 +16,7 @@
 ## 安装
 
 ```bash
-go get github.com/yourusername/slidingwindow
+go get github.com/sktli/slidingwindow
 ```
 
 ## 使用示例
