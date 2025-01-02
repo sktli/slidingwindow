@@ -29,7 +29,7 @@ import (
     "fmt"
     "time"
 
-    "your_project/slidingwindow"
+    "github.com/sktli/slidingwindow"
 )
 
 func main() {
